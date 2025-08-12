@@ -22,13 +22,22 @@ Atualmente, atuo na área de engenharia, com experiência em design e desenvolvi
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## Estatísticas
+## Estatísticas e Contato
+
+<table>
+  <tr>
+    <td>
 
 ![Deivedy GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivedyFabricio&show_icons=true&theme=dark)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivedyFabricio&layout=compact&theme=dracula)
 
-## Entre em contato
+    </td>
+    <td valign="top" style="padding-left: 20px;">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivedy-trindade-a6584b212/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivedyfabricio123@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d3ivedy/)
+
+    </td>
+  </tr>
+</table>
