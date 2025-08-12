@@ -8,10 +8,10 @@ Atualmente, atuo na área de engenharia, com experiência em design e desenvolvi
   Página para apresentação profissional e portfólio, utilizando **HTML**, **CSS** e **JavaScript**.
 
 - [🎨 Site de Artes](https://github.com/DeivedyFabricio/ArtSite)  
-  Aplicação para gerenciar usuários e dados, feita com **Node.js** e **MySQL**.
+  Projeto de um site com belas artes, feita com **HTML** e **CSS**.
 
 - [📋 Sistema de Apoio ao Estudo](https://github.com/DeivedyFabricio/Sistema_Estudante)  
-  API REST para manipulação de produtos, desenvolvida com **Express**.
+  Sistema de Apoio para estudantes, desenvolvida com **MySql** e **HTML**.
 
 ## Tecnologias que possuo conhecimento...
 
@@ -22,22 +22,12 @@ Atualmente, atuo na área de engenharia, com experiência em design e desenvolvi
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## Estatísticas e Contato
+## Estatísticas
 
-<table>
-  <tr>
-    <td>
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivedyFabricio&show_icons=true&theme=dark) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivedyFabricio&layout=compact&theme=dracula) |
+|---|---|
 
-![Deivedy GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivedyFabricio&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivedyFabricio&layout=compact&theme=dracula)
+## Meus Contatos
 
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivedy-trindade-a6584b212/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivedyfabricio123@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d3ivedy/)
-
-    </td>
-  </tr>
-</table>
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivedy-trindade-a6584b212/) | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivedyfabricio123@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d3ivedy/) |
+|---|---|---|
